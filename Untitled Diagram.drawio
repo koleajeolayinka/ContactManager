@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T12:15:12.223Z" agent="5.0 (X11)" version="20.0.1" etag="ElB2MSCVt5lIebr3gi1E" type="github"><diagram id="k147DWgFIR7QdPkM0tes">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-29T12:39:16.002Z" agent="5.0 (X11)" etag="d_4qYILDcV3CVWDgiT7Y" version="20.0.1" type="github">
+  <diagram id="k147DWgFIR7QdPkM0tes" name="Page-1">
+    <mxGraphModel dx="1590" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="up5UiVUhQMzMPKchClEh-2" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Server_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="190" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
